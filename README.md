@@ -6,12 +6,12 @@ Show some support and star the repo.❤
 
 ### Screenshots
 
-<img src="homepage.png" height="300em" /> <img src="callspage.png" height="300em" /> <img src="statuspage.png" height="300em" />
+<img src="homepage.PNG" height="300em" /> <img src="callspage.PNG" height="300em" /> <img src="statuspage.PNG" height="300em" />
 
 ### Created & Maintained By
 
-[GitHub](https://github.com/rihaanrk) ([LinkedIn](https://www.linkedin.com/in/mohamed-rihan-k-585056170/)
-([Instagram](https://www.instagram.com/rihaanrk)) ([@Twitter](https://twitter.com/MohamedRihanK))
+[GitHub](https://github.com/rihaanrk) [LinkedIn](https://www.linkedin.com/in/mohamed-rihan-k-585056170/)
+[Instagram](https://www.instagram.com/rihaanrk) [@Twitter](https://twitter.com/MohamedRihanK)
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of 🍫
 > * [GooglePay](k.rihan06@okicici)
