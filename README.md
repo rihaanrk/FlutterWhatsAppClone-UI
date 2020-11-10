@@ -1,9 +1,6 @@
 # FlutterWhatsAppClone-UI
 Simple WhatsApp Clone (UI) using Flutter.
 Anyone can build whatsapp clone easily by using this simple code. Not included any advanced features like camera screen,single status view etc but included all the basic features and structures.
-Just try. Best wishes.
-Show some support and star the repo.❤
-
 ### Screenshots
 
 <img src="homepage.PNG" height="300em" /> <img src="callspage.PNG" height="300em" /> <img src="statuspage.PNG" height="300em" />
